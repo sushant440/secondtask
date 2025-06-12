@@ -10,7 +10,10 @@ th,td{
     text-align: center;
 }
 table{
-    width:100%;
+    width:50%;
+    background-color: antiquewhite;
+    margin:auto;
+      
 }
 .my-id{
     width:10%;
@@ -20,4 +23,8 @@ table{
 }
 .my-roll{
     width:30%;
+}
+
+body{
+    background-color: aquamarine;
 }
