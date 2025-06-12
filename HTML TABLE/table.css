@@ -1,0 +1,23 @@
+table,th,td{
+    border:2px solid grey;
+   /* border-collapse: collapse;*/
+   border-radius:20px;
+
+
+}
+th,td{
+    padding:20px 30px; /*cell padding*/
+    text-align: center;
+}
+table{
+    width:100%;
+}
+.my-id{
+    width:10%;
+}
+.my-name{
+    width:60%;
+}
+.my-roll{
+    width:30%;
+}
